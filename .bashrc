@@ -1,6 +1,8 @@
 # some more ls aliases
 alias ll='ls -alF'
 alias la='ls -A'
+alias lw='ls . | wc -l'
+alias count='find . -type f | wc -l'
 alias l='ls -CF'
 alias c='clear'
 alias knn='conda activate kNN'

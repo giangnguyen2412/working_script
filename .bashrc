@@ -1,0 +1,10 @@
+# some more ls aliases
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+alias c='clear'
+alias knn='conda activate kNN'
+alias gits='git status'
+alias gita='git add *'
+alias gitc='git commit -m 'update''
+alias gitp='git push'
